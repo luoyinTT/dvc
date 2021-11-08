@@ -3,4 +3,4 @@
 ['remote "local"']
     url = /Users/yinluo/Desktop/lab/dvc/dvcstore
 ['remote "remote"']
-    url = ssh://ly@1.119.44.200//home/ly/data/
+    url = ssh://ly@1.119.44.200/home/ly/data/
